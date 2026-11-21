@@ -26,7 +26,7 @@ Báo cáo ngắn, tối đa 2 trang. Số liệu chi tiết nằm trong các fil
 - **Độ nhạy & điểm bất lợi:** Ba yếu tố nhạy nhất là số ca làm lại (`+51,8%` khi ×2), tỉ lệ xem lại (`+40,7%` khi ×2) và lương nhân viên (`+23,1%` khi +25%) [simulated]. Giới hạn 2 lần chạy rẻ nhất cho hệ thống (`6.901.220 đ` [simulated]). Tuy nhiên nếu phải xem lại 100%, chi phí lên `11.743 đ (0,98×)` hoặc `12.415 đ (1,03×)` nếu làm lại mất 15,3 phút/ca (mức hoà vốn xem lại ≤ `4,8–5,1` phút) [simulated].
 - **Chỉ số đợt chạy thử (không đối chứng) & thiết kế pilot:** Đóng 24h và không mở lại 7 ngày đạt `82,83%` (`92,26%` trong phạm vi pilot), tỉ lệ bỏ qua gợi ý `27,12%`, mở lại 7 ngày `4,25%` (`3,97%` trong phạm vi pilot). Pilot chia 20 + 20 nhân viên đạt `n = 859/nhóm` (`m ≥ 299`, `DE = 6,96`) cho MDE `+6 điểm` (power còn `0,64` nếu hiệu ứng thật `+5 điểm`).
 - **Đề xuất của [ho_so_launch_v0.md](ho_so_launch_v0.md):** **Go có điều kiện** (pilot `noi_dia` + `hang_nang`, giới hạn tối đa 2 lần chạy), kèm 4 điều kiện về sửa khoá chống trùng/đối soát sổ cái/xoá cache bảng giá, ký chấp nhận MDE `+6 điểm`, bật đủ 10 event có `trace_id` và lộ trình giảm xem lại theo bậc.
-- **Kết quả duyệt chéo Gate 2a:** `[Cập nhật sau phiên duyệt chéo 17:00–17:45 và phiếu chấm tại report/team/phieu_cham.md]`.
+- **Kết quả duyệt chéo Gate 2a:** No-go.
 
 ## 5. Khó khăn và cách xử lý
 
@@ -45,6 +45,6 @@ Chi tiết đóng góp của từng thành viên nằm trong [TEAM.md](../../TEA
 
 ## 8. Tài liệu tham khảo
 
-- Erol và cộng sự, *Cost-of-Pass: An Economic Framework for Evaluating Language Models*, [arxiv.org/abs/2504.13359](https://arxiv.org/abs/2504.13359)
-- Google PAIR, *People + AI Guidebook*, chương "Errors + Graceful Failure", [pair.withgoogle.com](https://pair.withgoogle.com)
+- Erol và cộng sự, _Cost-of-Pass: An Economic Framework for Evaluating Language Models_, [arxiv.org/abs/2504.13359](https://arxiv.org/abs/2504.13359)
+- Google PAIR, _People + AI Guidebook_, chương "Errors + Graceful Failure", [pair.withgoogle.com](https://pair.withgoogle.com)
 - Tài liệu `statsmodels`, lớp `NormalIndPower` (mục `stats.power`)
