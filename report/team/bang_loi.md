@@ -4,7 +4,7 @@
 
 ## Hai bộ nhãn độc lập
 
-Người gắn nhãn 1: Phạm Quỳnh Anh · Người gắn nhãn 2: [Điền tên người gắn nhãn 2] (gắn trong 8 phút, không trao đổi)
+Người gắn nhãn 1: Phạm Quỳnh Anh · Người gắn nhãn 2: Trần Quốc Đông (gắn trong 8 phút, không trao đổi)
 
 | Ca | Nhãn người 1 | Nhãn người 2 | Trùng? | Nhãn thống nhất |
 | --: | --- | --- | --- | --- |
