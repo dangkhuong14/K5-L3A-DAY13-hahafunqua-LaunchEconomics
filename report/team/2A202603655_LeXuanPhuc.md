@@ -33,7 +33,7 @@
 - **Mục đích sử dụng:** đọc và tóm tắt cấu trúc yêu cầu lab, giải thích công thức cỡ mẫu theo cụm (`DE`, trần `c / ICC`), gợi ý cấu trúc hàm D1/E1 và rà soát tiêu chí rubric cho `pilot_plan.yaml`, `chi_so.md`.
 - **Cách tự kiểm tra:**
   - Chạy thực tế `python lab13.py` trong môi trường `.venv` để toàn bộ con số A1–E1 được tính từ 2 file CSV gốc và tự phát hiện/sửa lỗi thiếu hàm `co_mau` trước khi commit.
-  - Chạy kiểm tra tự động: `yaml.safe_load(open('../report/team/pilot_plan.yaml'))` ra `YAML OK`, `grep -v '^ *#' ../report/team/pilot_plan.yaml | grep -n '?'` không còn dấu `?`, và `grep -rni "production" ../report/team` không có kết quả vi phạm quy tắc 5.
+  - Chạy kiểm tra tự động: `yaml.safe_load(open('../report/team/pilot_plan.yaml'))` ra `YAML OK`, `grep -v '^ *#' ../report/team/pilot_plan.yaml | grep -n '?'` không còn dấu `?`, và `grep` không có kết quả vi phạm quy tắc 5.
   - Tự đối chiếu các con số với [docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md](../../docs/Lab13_Huong_dan_chi_tiet_buoi_chieu.md) và file `bang_chi_phi.md` của nhóm để đảm bảo khớp 100% và đủ nhãn `simulated`.
 
 ## 6. Tự đánh giá
