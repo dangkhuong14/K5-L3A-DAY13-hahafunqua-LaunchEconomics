@@ -9,12 +9,12 @@
 
 ## Thành viên
 
-| STT | Họ tên | MSSV | Email | GitHub | Vai trò |
-| --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Phạm Quỳnh Anh | 2A202603671 | quynhanh112125@gmail.com | phamquynhanh-17 | Người gắn nhãn 1 |
-|   2 | Mai Đăng Khương | 2A202603627 | 26ai.khuongmd@vinuni.edu.vn | dangkhuong14 | Người viết code (CP1–CP2) |
-|   3 | Lê Xuân Phúc | 2A202603655 | 26ai.phuclx@vinuni.edu.vn | [điền GitHub] | Người kiểm số (CP1–CP2) / Đổi vai Người viết code (CP4–CP5) |
-|   4 | Trần Quốc Đông | 2A202603643 | 26ai.dongtq@vinuni.edu.vn | dongtranquoc951 | Người gắn nhãn 2, kiêm giữ hồ sơ |
+| STT | Họ tên          | MSSV        | Email                       | GitHub                               | Vai trò                                   |
+| --: | :-------------- | :---------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
+|   1 | Mai Đăng Khương | 2A202603627 | 26ai.khuongmd@vinuni.edu.vn | https://github.com/dangkhuong14/     | Người viết code                           |
+|   2 | Lê Xuân Phúc    | 2A202603655 | 26ai.phuclx@vinuni.edu.vn   | https://github.com/chrislethedimsum  | Người kiểm số (đổi vai viết code CP4–CP5) |
+|   3 | Phạm Quỳnh Anh  | 2A202603671 | quynhanh112125@gmail.com    | phamquynhanh-17                      | Người gắn nhãn 1                          |
+|   4 | Trần Quốc Đông  | 2A202603643 | 26ai.dongtq@vinuni.edu.vn   | dongtranquoc951                      | Người gắn nhãn 2, kiêm giữ hồ sơ          |
 
 Bốn vai của lab:
 
@@ -93,10 +93,10 @@ Sao chép mục dưới đây cho từng thành viên.
 
 ### Đóng góp cụ thể
 
-- Điền dần 7 mục của `report/team/ho_so_launch_v0.md` qua từng checkpoint, đảm bảo đúng 1 trang, đủ nhãn `[simulated]`, không có từ cấm `production`, và nêu rõ các con số bất lợi (xem lại 100%, power 0,64).
+- Điền dần 7 mục của `report/team/ho_so_launch_v0.md` qua từng checkpoint, đảm bảo đúng 1 trang, đủ nhãn `[simulated]`, không có từ bị cấm theo quy tắc 5, và nêu rõ các con số bất lợi (xem lại 100%, power 0,64).
 - Độc lập gắn nhãn 20 ca lỗi CP3 theo 5 loại Google PAIR, đạt đồng thuận cao (≥ 80%), ghi rõ quy tắc phân biệt cho ca 6 và 18, phối hợp lập bảng khắc phục 5 ca có event đo lường và vai trò phụ trách.
 - Cùng nhóm rà soát tính nhất quán số liệu toàn bộ hồ sơ nhóm và đóng góp ý kiến trong `report/team/group_report.md`.
 
 ### Bằng chứng
 
-- File trực tiếp phụ trách: `report/team/ho_so_launch_v0.md`, `report/team/bang_loi.md` (Nhãn người 2 và bảng khắc phục), báo cáo cá nhân `report/team/MSSV_TranQuocDong.md`.
+- File trực tiếp phụ trách: `report/team/ho_so_launch_v0.md`, `report/team/bang_loi.md` (Nhãn người 2 và bảng khắc phục), báo cáo cá nhân `report/team/2A202603643_TranQuocDong.md`.
