@@ -3,7 +3,7 @@
 ## Thông tin nhóm
 
 - Tên nhóm:
-- Lớp: L3A hoặc L3B
+- Lớp: L3A 
 - Repo nhóm: `K5-L3A-DAY13-TenNhom-LaunchEconomics` (xem [SUBMISSION.md](SUBMISSION.md))
 - URL repo, nhánh nộp, commit chốt:
 
