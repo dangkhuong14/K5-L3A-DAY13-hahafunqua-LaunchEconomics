@@ -11,10 +11,10 @@
 
 | STT | Họ tên          | MSSV        | Email                       | GitHub                               | Vai trò                                   |
 | --: | :-------------- | :---------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
-|   1 | Mai Đăng Khương | 2A202603627 | 26ai.khuongmd@vinuni.edu.vn | https\://github.com/dangkhuong14/    | Người viết code                           |
-|   2 | Lê Xuân Phúc    | 2A202603655 | 26ai.phuclx@vinuni.edu.vn   | https\://github.com/chrislethedimsum | Người kiểm số (đổi vai viết code CP4–CP5) |
+|   1 | Mai Đăng Khương | 2A202603627 | 26ai.khuongmd@vinuni.edu.vn | https://github.com/dangkhuong14/     | Người viết code                           |
+|   2 | Lê Xuân Phúc    | 2A202603655 | 26ai.phuclx@vinuni.edu.vn   | https://github.com/chrislethedimsum  | Người kiểm số (đổi vai viết code CP4–CP5) |
 |   3 | Phạm Quỳnh Anh  | 2A202603671 | quynhanh112125@gmail.com    | phamquynhanh-17                      | Người gắn nhãn 1                          |
-|   4 | Trần Quốc Đông  | 2A202603643 | 26ai.dongtq@vinuni.edu.vn   | dongtranquoc951                      | Người gán nhãn 2                          |
+|   4 | Trần Quốc Đông  | 2A202603643 | 26ai.dongtq@vinuni.edu.vn   | dongtranquoc951                      | Người gắn nhãn 2, kiêm giữ hồ sơ          |
 
 Bốn vai của lab:
 
@@ -55,6 +55,21 @@ Sao chép mục dưới đây cho từng thành viên.
 - Kiểm tra đối chiếu: 3 phép thử A1 ĐẠT, kiểm tra `yaml.safe_load` và quét `?` trên `report/team/pilot_plan.yaml`, quét từ cấm toàn `report/team/`.
 - Commit: `ebadedc` (chỉnh sửa tiếp theo cập nhật `TEAM.md`, `group_report.md`, email cá nhân).
 
+## MaiDangKhuong-2A202603627
+
+### Phần việc phụ trách
+
+- Người viết code CP1–CP2 (trước giải lao): viết và chạy `src/lab13.py` cho Nhiệm vụ A, B; hỗ trợ ở CP3; bàn giao vai viết code cho người kiểm số để làm CP4–CP5.
+
+### Đóng góp cụ thể
+
+- Viết 3 hàm A1 (ba phép thử ĐẠT: 1,20 · 1,25 · 1,25), hàm `mo_hinh(...)` tính chi phí mỗi việc thành công 4.472 đ [simulated], bảng theo loại A3 và chi phí cố định A4 (4.599 đ = 0,38×).
+- Viết khối B1–B4: 9 kịch bản độ nhạy có tự kiểm tra tuyến tính, cặp B2 (+46,3%), giới hạn chạy lại B3 (`max_lan_chay`, rẻ nhất ở 2 lần), xem lại 100% B4 (11.743 đ = 0,98×).
+
+### Bằng chứng
+
+- Commit `178e37b`, `d4b20fc`, `81cd484` (`src/lab13.py`, `report/team/bang_chi_phi.md`); báo cáo cá nhân `report/team/2A202603627_MaiDangKhuong.md`.
+
 ## LeXuanPhuc-2A202603655
 
 ### Phần việc phụ trách
@@ -70,16 +85,18 @@ Sao chép mục dưới đây cho từng thành viên.
 
 - Commit `a3e5ff7` (`src/lab13.py`, `report/team/pilot_plan.yaml`, `report/team/chi_so.md`) và `9212897` (`report/team/2A202603655_LeXuanPhuc.md`).
 
-## HoVaTen-MSSV
+## TranQuocDong-2A202603643
 
 ### Phần việc phụ trách
 
--
+- Người gắn nhãn 2, kiêm giữ hồ sơ: quản lý và liên tục hoàn thiện trang hồ sơ launch `report/team/ho_so_launch_v0.md` từ CP1–CP5; gắn nhãn độc lập 20 ca lỗi ở CP3, đối chiếu đồng thuận và điền bảng khắc phục 5 ca trong `report/team/bang_loi.md`; tham gia duyệt chéo Gate 2a.
 
 ### Đóng góp cụ thể
 
--
+- Điền dần 7 mục của `report/team/ho_so_launch_v0.md` qua từng checkpoint, đảm bảo đúng 1 trang, đủ nhãn `[simulated]`, không có từ bị cấm theo quy tắc 5, và nêu rõ các con số bất lợi (xem lại 100%, power 0,64).
+- Độc lập gắn nhãn 20 ca lỗi CP3 theo 5 loại Google PAIR, đạt đồng thuận cao (≥ 80%), ghi rõ quy tắc phân biệt cho ca 6 và 18, phối hợp lập bảng khắc phục 5 ca có event đo lường và vai trò phụ trách.
+- Cùng nhóm rà soát tính nhất quán số liệu toàn bộ hồ sơ nhóm và đóng góp ý kiến trong `report/team/group_report.md`.
 
 ### Bằng chứng
 
--
+- File trực tiếp phụ trách: `report/team/ho_so_launch_v0.md`, `report/team/bang_loi.md` (Nhãn người 2 và bảng khắc phục), báo cáo cá nhân `report/team/2A202603643_TranQuocDong.md`.
