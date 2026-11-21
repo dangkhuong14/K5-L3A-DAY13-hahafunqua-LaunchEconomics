@@ -4,7 +4,7 @@
 
 - Họ tên: Phạm Quỳnh Anh
 - MSSV: 2A202603671
-- Email: quynhanh112125@gmail.com
+- Email: 26ai.anhpq3@vinuni.edu.vn
 - Vai trong nhóm (người viết code, người kiểm số, người gắn nhãn 1, người gắn nhãn 2 kiêm giữ hồ sơ): Người gắn nhãn 1
 
 ## 2. Phần việc phụ trách
