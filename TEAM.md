@@ -9,12 +9,12 @@
 
 ## Thành viên
 
-| STT | Họ tên | MSSV | Email | GitHub | Vai trò |
-| --: | ------ | ---- | ----- | ------ | ------- |
-|   1 | Phạm Quỳnh Anh | 2A202603671 | quynhanh112125@gmail.com | phamquynhanh-17 | Người gắn nhãn 1 |
-|   2 | [điền họ tên] | [điền MSSV] | khuongmaidev@gmail.com | dangkhuong14 | Người viết code (CP1–CP2) |
-|   3 | Lê Xuân Phúc | 2A202603655 | 26ai.phuclx@vinuni.edu.vn | [điền GitHub] | Người kiểm số (CP1–CP2) / Đổi vai Người viết code (CP4–CP5) |
-|   4 | [điền họ tên] | [điền MSSV] | [điền email] | [điền GitHub] | Người gắn nhãn 2, kiêm giữ hồ sơ |
+| STT | Họ tên          | MSSV        | Email                       | GitHub                               | Vai trò                                   |
+| --: | :-------------- | :---------- | :-------------------------- | :----------------------------------- | :---------------------------------------- |
+|   1 | Mai Đăng Khương | 2A202603627 | 26ai.khuongmd@vinuni.edu.vn | https\://github.com/dangkhuong14/    | Người viết code                           |
+|   2 | Lê Xuân Phúc    | 2A202603655 | 26ai.phuclx@vinuni.edu.vn   | https\://github.com/chrislethedimsum | Người kiểm số (đổi vai viết code CP4–CP5) |
+|   3 | Phạm Quỳnh Anh  | 2A202603671 | quynhanh112125@gmail.com    | phamquynhanh-17                      | Người gắn nhãn 1                          |
+|   4 | Trần Quốc Đông  | 2A202603643 | 26ai.dongtq@vinuni.edu.vn   | dongtranquoc951                      | Người gán nhãn 2                          |
 
 Bốn vai của lab:
 
