@@ -24,7 +24,7 @@
 
 - Các file đã cập nhật/kiểm tra: `report/team/bang_loi.md`, `report/team/ho_so_launch_v0.md`, `report/team/group_report.md`, `TEAM.md`, `report/team/2A202603671_PhamQuynhAnh.md`.
 - Kiểm tra xác nhận đã chạy: 3 phép thử A1 ĐẠT, đối chiếu số liệu A2–E1 từ `logix_runs.csv` và `logix_requests.csv`, kiểm tra cú pháp YAML và quét `?` trên `report/team/pilot_plan.yaml`, quét không có từ cấm trên toàn bộ `report/team/`.
-- Commit: `[cập nhật mã commit sau khi push]`.
+- Commit trên nhánh `main`: `ebadedc`, `9cfb57c`, `5e130b9` (merge `6f73993`).
 
 ## 5. Công cụ AI đã dùng
 

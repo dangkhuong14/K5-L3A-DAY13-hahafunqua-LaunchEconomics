@@ -1,15 +1,15 @@
-# Báo cáo cá nhân — TranQuocDong-[MSSV]
+# Báo cáo cá nhân — TranQuocDong-2A202603643
 
 ## 1. Thông tin thành viên
 
 - Họ tên: Trần Quốc Đông
-- MSSV: [Điền MSSV của bạn vào đây]
+- MSSV: 2A202603643
 - Email: dongtranquoc951@gmail.com
 - Vai trong nhóm: Người gắn nhãn 2, kiêm giữ hồ sơ
 
 ## 2. Phần việc phụ trách
 
-- **Giữ hồ sơ (Dossier Keeper):** Trực tiếp khởi tạo, quản lý, biên tập và liên tục cập nhật trang hồ sơ launch [report/team/ho_so_launch_v0.md](ho_so_launch_v0.md) xuyên suốt 5 Checkpoint (CP1–CP5); giám sát sự tuân thủ 5 quy tắc vàng của lab (gán nhãn `simulated`, không dùng từ cấm "production", chuẩn hóa 3 trạng thái và vai trò phụ trách cụ thể).
+- **Giữ hồ sơ (Dossier Keeper):** Trực tiếp khởi tạo, quản lý, biên tập và liên tục cập nhật trang hồ sơ launch [report/team/ho_so_launch_v0.md](ho_so_launch_v0.md) xuyên suốt 5 Checkpoint (CP1–CP5); giám sát sự tuân thủ 5 quy tắc vàng của lab (gán nhãn `simulated`, không dùng từ bị cấm theo quy tắc 5, chuẩn hóa 3 trạng thái và vai trò phụ trách cụ thể).
 - **Người gắn nhãn 2 (Annotator 2):** Độc lập gắn nhãn 20 ca lỗi ở CP3 (Nhiệm vụ C) theo 5 loại của Google PAIR dựa trên nguyên nhân gốc trong 8 phút đầu; cùng Người gắn nhãn 1 đối chiếu nhãn, tính tỉ lệ đồng thuận, thống nhất quy tắc phân biệt cho các ca lệch và lập bảng khắc phục 5 ca đại diện.
 - **Tổng hợp & Duyệt chéo Gate 2a (CP5):** Rà soát tính nhất quán số liệu toàn bộ hồ sơ 7 mục trước 17:00, tham gia đọc và phản biện hồ sơ nhóm bạn theo 3 tiêu chí Rubric C6–C8 và ghi biên bản vào [report/team/phieu_cham.md](phieu_cham.md).
 
@@ -32,7 +32,7 @@
   - [report/team/ho_so_launch_v0.md](ho_so_launch_v0.md): hoàn chỉnh 7 mục, đúng 1 trang A4, đầy đủ nhãn `[simulated]`, phân định vai trò phụ trách rõ ràng, đề xuất Go có điều kiện có bằng chứng định lượng.
   - [report/team/bang_loi.md](bang_loi.md): hoàn thành 20 nhãn độc lập của Người 2, đạt đồng thuận cao, có bảng khắc phục 5 ca đo lường được.
   - Đóng góp nội dung và kiểm tra trong [report/team/group_report.md](group_report.md) và [TEAM.md](../../TEAM.md).
-  - commit github
+  - Commit trên nhánh `main`: `505d8f6`, `a4d28e3`, `79fe976`.
 
 ## 5. Công cụ AI đã dùng
 
